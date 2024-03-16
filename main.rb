@@ -39,3 +39,5 @@ elsif user_input == "B"
 else 
     puts "Invalid entry"
 end
+
+puts "Thanks for visiting the Coder Bank, come again"
